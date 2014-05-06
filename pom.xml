@@ -69,8 +69,6 @@
         <commons-httpclient.version>4.1</commons-httpclient.version>
         <commons-io.version>2.1</commons-io.version>
         <commons-lang.version>2.6</commons-lang.version>
-        <everrest.assured.version>0.17</everrest.assured.version>
-        <everrest.version>1.1.12-SNAPSHOT</everrest.version>
         <javax.activation.version>1.1.1</javax.activation.version>
         <javax.annotation.version>1.0</javax.annotation.version>
         <javax.inject.version>1</javax.inject.version>
@@ -96,6 +94,8 @@
         <org.apache.tika.version>1.1</org.apache.tika.version>
         <org.easymock.version>2.0</org.easymock.version>
         <org.easytesting.fest-assert.version>1.4</org.easytesting.fest-assert.version>
+        <org.everrest.assured.version>0.17</org.everrest.assured.version>
+        <org.everrest.version>1.1.11</org.everrest.version>
         <org.hamcrest.version>1.2.1</org.hamcrest.version>
         <org.hsqldb.version>2.0.0</org.hsqldb.version>
         <org.javassist.version>3.14.0-GA</org.javassist.version>
