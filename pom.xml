@@ -113,6 +113,8 @@
         <org.apache.tomcat.version>7.0.53</org.apache.tomcat.version>
         <org.codehaus.groovy.version>1.8.1</org.codehaus.groovy.version>
         <org.codehaus.jackson.version>1.9.4</org.codehaus.jackson.version>
+        <org.concordion.ext.version>1.1.1</org.concordion.ext.version>
+        <org.concordion.version>1.4.4</org.concordion.version>
         <org.easymock.version>3.2</org.easymock.version>
         <org.easytesting.fest-assert.version>1.4</org.easytesting.fest-assert.version>
         <org.eclipse.core.contenttype.version>3.4.100.v20100505-1235</org.eclipse.core.contenttype.version>
@@ -129,6 +131,7 @@
         <org.hamcrest.version>1.2.1</org.hamcrest.version>
         <org.hsqldb.version>2.0.0</org.hsqldb.version>
         <org.javassist.version>3.14.0-GA</org.javassist.version>
+        <org.jboss.arquillian.version>1.1.2.Final</org.jboss.arquillian.version>
         <org.mockito.version>1.9.5</org.mockito.version>
         <org.mockitong.version>0.3</org.mockitong.version>
         <org.mongodb.mongo-java-server.version>1.1.1</org.mongodb.mongo-java-server.version>
