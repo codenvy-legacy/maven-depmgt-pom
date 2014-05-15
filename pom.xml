@@ -47,6 +47,7 @@
         <codenvy.hosted-infrastructure.version>0.3.0-SNAPSHOT</codenvy.hosted-infrastructure.version>
         <codenvy.ide-codeassistant-index.version>20120627</codenvy.ide-codeassistant-index.version>
         <codenvy.ide-old.version>2.17.0-SNAPSHOT</codenvy.ide-old.version>
+        <codenvy.ide-sdk.version>3.0.0-M16-SNAPSHOT</codenvy.ide-sdk.version>
         <codenvy.ide.version>3.0.0-M16-SNAPSHOT</codenvy.ide.version>
         <codenvy.odyssey.version>0.17.0-SNAPSHOT</codenvy.odyssey.version>
         <codenvy.platform-api-gwt-client.version>0.6.0-SNAPSHOT</codenvy.platform-api-gwt-client.version>
