@@ -112,7 +112,6 @@
         <org.apache.ant.version>1.9.1</org.apache.ant.version>
         <org.apache.apacheds.version>1.5.7</org.apache.apacheds.version>
         <org.apache.hadoop.version>0.20.2</org.apache.hadoop.version>
-        <org.apache.log4j.version>1.2.16</org.apache.log4j.version>
         <org.apache.lucene.version>2.9.4</org.apache.lucene.version>
         <org.apache.pdfbox.version>1.7.1</org.apache.pdfbox.version>
         <org.apache.pig.version>0.12.0-codenvy-p1</org.apache.pig.version>
@@ -144,7 +143,7 @@
         <org.mockito.version>1.9.5</org.mockito.version>
         <org.mockitong.version>0.3</org.mockitong.version>
         <org.mongodb.mongo-java-server.version>1.1.1</org.mongodb.mongo-java-server.version>
-        <org.mongodb.version>2.11.3</org.mongodb.version>
+        <org.mongodb.version>2.11.4</org.mongodb.version>
         <org.objectweb.asm>3.3.1</org.objectweb.asm>
         <org.quartz-scheduler.version>2.1.7</org.quartz-scheduler.version>
         <org.reflections.version>0.9.9-RC1</org.reflections.version>
