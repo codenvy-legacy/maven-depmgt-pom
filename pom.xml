@@ -28,14 +28,14 @@
         <relativePath />
     </parent>
     <artifactId>maven-depmgt-pom</artifactId>
-    <version>1.5.1-SNAPSHOT</version>
+    <version>1.5.1</version>
     <packaging>pom</packaging>
     <name>Codenvy Dependency Management POM</name>
     <description>Provides version of third parties artifacts to use in Codenvy platform projects</description>
     <scm>
         <connection>scm:git:git://github.com/codenvy/maven-depmgt-pom.git</connection>
         <developerConnection>scm:git:git@github.com:codenvy/maven-depmgt-pom.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>1.5.1</tag>
         <url>https://github.com/codenvy/maven-depmgt-pom</url>
     </scm>
     <properties>
