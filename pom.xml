@@ -108,7 +108,7 @@
         <maven.plugin-api.version>2.0</maven.plugin-api.version>
         <net.java.dev.jna.version>3.5.2</net.java.dev.jna.version>
         <net.sf.opencsv.version>2.3</net.sf.opencsv.version>
-        <net.sourceforge.schemacrawler.version>10.08.01</net.sourceforge.schemacrawler.version>
+        <net.sourceforge.schemacrawler.version>10.09.01</net.sourceforge.schemacrawler.version>
         <org.antlr.version>3.4</org.antlr.version>
         <org.apache.ant.version>1.9.1</org.apache.ant.version>
         <org.apache.apacheds.version>1.5.7</org.apache.apacheds.version>
