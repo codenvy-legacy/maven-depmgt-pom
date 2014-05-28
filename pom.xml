@@ -71,6 +71,7 @@
         <com.google.gwt.google-apis.gwt-gadgets.version>1.2.1</com.google.gwt.google-apis.gwt-gadgets.version>
         <com.google.gwt.version>${version.gwt.plugin}</com.google.gwt.version>
         <com.google.protobuf.version>2.4.1</com.google.protobuf.version>
+        <com.googlecode.grep4j.version>1.8.7</com.googlecode.grep4j.version>
         <com.googlecode.gson.version>2.1</com.googlecode.gson.version>
         <com.googlecode.gwt-test-utils.version>0.47</com.googlecode.gwt-test-utils.version>
         <com.googlecode.json-simple.version>1.1</com.googlecode.json-simple.version>
