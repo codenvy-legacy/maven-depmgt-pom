@@ -145,7 +145,7 @@
         <org.jboss.arquillian.version>1.1.2.Final</org.jboss.arquillian.version>
         <org.joda-time.version>2.2</org.joda-time.version>
         <org.mockito.version>1.9.5</org.mockito.version>
-        <org.mockitong.version>0.3</org.mockitong.version>
+        <org.mockitong.version>0.4</org.mockitong.version>
         <org.mongodb.mongo-java-server.version>1.1.1</org.mongodb.mongo-java-server.version>
         <org.mongodb.version>2.11.4</org.mongodb.version>
         <org.objectweb.asm>3.3.1</org.objectweb.asm>
