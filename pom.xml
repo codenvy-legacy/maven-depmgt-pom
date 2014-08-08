@@ -33,7 +33,7 @@
     <properties>
         <ch.qos.logback.version>1.1.2</ch.qos.logback.version>
         <codenvy.api-docs-ui.version>1.0.0-SNAPSHOT</codenvy.api-docs-ui.version>
-        <codenvy.cli.version>0.2-SNAPSHOT</codenvy.cli.version>
+        <codenvy.cli.version>2.0.0-M1-SNAPSHOT</codenvy.cli.version>
         <codenvy.cloud-ide.version>3.0.0-SNAPSHOT</codenvy.cloud-ide.version>
         <codenvy.commons.version>0.36.0-SNAPSHOT</codenvy.commons.version>
         <codenvy.dashboard.version>0.5.0-SNAPSHOT</codenvy.dashboard.version>
@@ -123,6 +123,7 @@
         <org.apache.ant.version>1.9.1</org.apache.ant.version>
         <org.apache.apacheds.version>1.5.7</org.apache.apacheds.version>
         <org.apache.hadoop.version>0.20.2</org.apache.hadoop.version>
+        <org.apache.karaf.version>3.0.1</org.apache.karaf.version>
         <org.apache.lucene.version>2.9.4</org.apache.lucene.version>
         <org.apache.pdfbox.version>1.7.1</org.apache.pdfbox.version>
         <org.apache.pig.version>0.12.0-codenvy-p1</org.apache.pig.version>
