@@ -60,7 +60,7 @@
         <codenvy.plugin.npm.version>1.3.0-SNAPSHOT</codenvy.plugin.npm.version>
         <codenvy.plugin.yeoman.version>1.3.0-SNAPSHOT</codenvy.plugin.yeoman.version>
         <codenvy.security.version>0.11.0-SNAPSHOT</codenvy.security.version>
-        <codenvy.test-framework.version>0.7.0</codenvy.test-framework.version>
+        <codenvy.test-framework.version>0.7.1-SNAPSHOT</codenvy.test-framework.version>
         <codenvy.vfs.impl.version>3.1.0-SNAPSHOT</codenvy.vfs.impl.version>
         <com.amazonws.sdk.version>1.3.17</com.amazonws.sdk.version>
         <com.braintreepayments.gateway.version>2.29.1</com.braintreepayments.gateway.version>
