@@ -160,6 +160,7 @@
         <org.mongodb.mongo-java-server.version>1.1.1</org.mongodb.mongo-java-server.version>
         <org.mongodb.version>2.11.4</org.mongodb.version>
         <org.objectweb.asm>3.3.1</org.objectweb.asm>
+        <org.osgi.version>5.0.0</org.osgi.version>
         <org.powermock.version>1.5.5</org.powermock.version>
         <org.quartz-scheduler.version>2.1.7</org.quartz-scheduler.version>
         <org.reflections.version>0.9.9-RC1</org.reflections.version>
