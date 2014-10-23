@@ -62,7 +62,7 @@
         <codenvy.plugin.git.version>1.4.0</codenvy.plugin.git.version>
         <codenvy.plugin.grunt.version>1.3.0</codenvy.plugin.grunt.version>
         <codenvy.plugin.gulp.version>1.3.0</codenvy.plugin.gulp.version>
-        <codenvy.plugin.hosted.version>0.6.0</codenvy.plugin.hosted.version>
+        <codenvy.plugin.hosted.version>0.6.1-SNAPSHOT</codenvy.plugin.hosted.version>
         <codenvy.plugin.npm.version>1.3.0</codenvy.plugin.npm.version>
         <codenvy.plugin.yeoman.version>1.3.0</codenvy.plugin.yeoman.version>
         <codenvy.security.version>0.11.0</codenvy.security.version>
