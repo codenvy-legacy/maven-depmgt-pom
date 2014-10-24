@@ -33,7 +33,7 @@
     <properties>
         <ch.qos.logback.version>1.1.2</ch.qos.logback.version>
         <codenvy.api-docs-ui.version>1.1.0</codenvy.api-docs-ui.version>
-        <codenvy.cli.version>2.1.0</codenvy.cli.version>
+        <codenvy.cli.version>2.1.1-SNAPSHOT</codenvy.cli.version>
         <codenvy.cloud-ide.version>3.1.2-SNAPSHOT</codenvy.cloud-ide.version>
         <codenvy.commons.version>0.37.0</codenvy.commons.version>
         <codenvy.dashboard.version>0.7.1-SNAPSHOT</codenvy.dashboard.version>
