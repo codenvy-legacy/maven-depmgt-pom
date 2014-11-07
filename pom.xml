@@ -40,7 +40,6 @@
         <codenvy.factory.version>0.18.0-SNAPSHOT</codenvy.factory.version>
         <codenvy.hosted-infrastructure.version>0.10.0-SNAPSHOT</codenvy.hosted-infrastructure.version>
         <codenvy.ide-codeassistant-index.version>20120627</codenvy.ide-codeassistant-index.version>
-        <codenvy.ide-old.version>2.23.0-SNAPSHOT</codenvy.ide-old.version>
         <codenvy.ide-sdk.version>3.3.0-SNAPSHOT</codenvy.ide-sdk.version>
         <codenvy.ide.version>3.3.0-SNAPSHOT</codenvy.ide.version>
         <codenvy.odyssey.version>0.24.0-SNAPSHOT</codenvy.odyssey.version>
