@@ -42,7 +42,7 @@
         <codenvy.ide-codeassistant-index.version>20120627</codenvy.ide-codeassistant-index.version>
         <codenvy.ide-old.version>2.22.0</codenvy.ide-old.version>
         <codenvy.ide-sdk.version>3.2.0</codenvy.ide-sdk.version>
-        <codenvy.ide.version>3.2.0</codenvy.ide.version>
+        <codenvy.ide.version>3.2.1-SNAPSHOT</codenvy.ide.version>
         <codenvy.odyssey.version>0.23.0</codenvy.odyssey.version>
         <codenvy.platform-api-client-java.version>1.2.0</codenvy.platform-api-client-java.version>
         <codenvy.platform-api-gwt-client.version>0.15.0</codenvy.platform-api-gwt-client.version>
