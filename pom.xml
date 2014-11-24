@@ -57,11 +57,11 @@
         <codenvy.plugin-sdk.version>1.2.0</codenvy.plugin-sdk.version>
         <codenvy.plugin.angularjs.version>1.5.1</codenvy.plugin.angularjs.version>
         <codenvy.plugin.bower.version>1.3.0</codenvy.plugin.bower.version>
-        <codenvy.plugin.datasource.version>1.5.0</codenvy.plugin.datasource.version>
+        <codenvy.plugin.datasource.version>1.5.1-SNAPSHOT</codenvy.plugin.datasource.version>
         <codenvy.plugin.git.version>1.5.2</codenvy.plugin.git.version>
         <codenvy.plugin.grunt.version>1.3.0</codenvy.plugin.grunt.version>
         <codenvy.plugin.gulp.version>1.3.0</codenvy.plugin.gulp.version>
-        <codenvy.plugin.hosted.version>0.7.1</codenvy.plugin.hosted.version>
+        <codenvy.plugin.hosted.version>0.7.2-SNAPSHOT</codenvy.plugin.hosted.version>
         <codenvy.plugin.npm.version>1.3.0</codenvy.plugin.npm.version>
         <codenvy.plugin.yeoman.version>1.3.0</codenvy.plugin.yeoman.version>
         <codenvy.security.version>0.12.0</codenvy.security.version>
