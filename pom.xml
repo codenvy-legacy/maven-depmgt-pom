@@ -49,6 +49,7 @@
         <codenvy.plugin-cpp.version>1.3.0-SNAPSHOT</codenvy.plugin-cpp.version>
         <codenvy.plugin-editor-codemirror.version>1.4.0-SNAPSHOT</codenvy.plugin-editor-codemirror.version>
         <codenvy.plugin-editor-orion.version>1.4.0-SNAPSHOT</codenvy.plugin-editor-orion.version>
+        <codenvy.plugin-go.version>1.0.0-SNAPSHOT</codenvy.plugin-go.version>
         <codenvy.plugin-java.version>1.4.0-SNAPSHOT</codenvy.plugin-java.version>
         <codenvy.plugin-php.version>1.3.0-SNAPSHOT</codenvy.plugin-php.version>
         <codenvy.plugin-python.version>1.3.0-SNAPSHOT</codenvy.plugin-python.version>
