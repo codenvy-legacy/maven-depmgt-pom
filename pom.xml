@@ -58,7 +58,7 @@
         <codenvy.plugin.angularjs.version>1.7.0</codenvy.plugin.angularjs.version>
         <codenvy.plugin.bower.version>1.5.0</codenvy.plugin.bower.version>
         <codenvy.plugin.datasource.version>1.7.0</codenvy.plugin.datasource.version>
-        <codenvy.plugin.gae.version>1.0.0</codenvy.plugin.gae.version>
+        <codenvy.plugin.gae.version>1.0.1-SNAPSHOT</codenvy.plugin.gae.version>
         <codenvy.plugin.git.version>1.7.0</codenvy.plugin.git.version>
         <codenvy.plugin.grunt.version>1.5.0</codenvy.plugin.grunt.version>
         <codenvy.plugin.gulp.version>1.5.0</codenvy.plugin.gulp.version>
