@@ -34,7 +34,7 @@
         <ch.qos.logback.version>1.1.2</ch.qos.logback.version>
         <codenvy.api-docs-ui.version>1.1.0</codenvy.api-docs-ui.version>
         <codenvy.cli.version>2.4.0</codenvy.cli.version>
-        <codenvy.cloud-ide.version>3.4.1</codenvy.cloud-ide.version>
+        <codenvy.cloud-ide.version>3.4.2-SNAPSHOT</codenvy.cloud-ide.version>
         <codenvy.commons.version>0.40.0</codenvy.commons.version>
         <codenvy.dashboard.version>0.10.0</codenvy.dashboard.version>
         <codenvy.factory.version>0.19.0</codenvy.factory.version>
@@ -58,7 +58,7 @@
         <codenvy.plugin.angularjs.version>1.7.0</codenvy.plugin.angularjs.version>
         <codenvy.plugin.bower.version>1.5.0</codenvy.plugin.bower.version>
         <codenvy.plugin.datasource.version>1.7.0</codenvy.plugin.datasource.version>
-        <codenvy.plugin.gae.version>1.0.1</codenvy.plugin.gae.version>
+        <codenvy.plugin.gae.version>1.0.2-SNAPSHOT</codenvy.plugin.gae.version>
         <codenvy.plugin.git.version>1.7.0</codenvy.plugin.git.version>
         <codenvy.plugin.grunt.version>1.5.0</codenvy.plugin.grunt.version>
         <codenvy.plugin.gulp.version>1.5.0</codenvy.plugin.gulp.version>
