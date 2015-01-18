@@ -159,6 +159,7 @@
         <org.eclipse.text.version>3.5.101</org.eclipse.text.version>
         <org.everrest.assured.version>0.20</org.everrest.assured.version>
         <org.everrest.version>1.1.18</org.everrest.version>
+        <org.gradle.tooling-api>2.2.1</org.gradle.tooling-api>
         <org.hamcrest.version>1.2.1</org.hamcrest.version>
         <org.hsqldb.version>2.0.0</org.hsqldb.version>
         <org.javassist.version>3.18.2-GA</org.javassist.version>
