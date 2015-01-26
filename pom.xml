@@ -157,7 +157,7 @@
         <org.eclipse.jgit.version>2.3.1.201302201838-r</org.eclipse.jgit.version>
         <org.eclipse.osgi.version>3.10.0.v20140606-1445</org.eclipse.osgi.version>
         <org.eclipse.text.version>3.5.101</org.eclipse.text.version>
-        <org.everrest.assured.version>0.20</org.everrest.assured.version>
+        <org.everrest.assured.version>0.21</org.everrest.assured.version>
         <org.everrest.version>1.2.0</org.everrest.version>
         <org.hamcrest.version>1.2.1</org.hamcrest.version>
         <org.hsqldb.version>2.0.0</org.hsqldb.version>
