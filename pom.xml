@@ -117,10 +117,11 @@
         <javax.xml.stream.stax-api.version>1.0-2</javax.xml.stream.stax-api.version>
         <javax.xml.version>2.2.11</javax.xml.version>
         <jdbc.h2-driver.version>1.2.140</jdbc.h2-driver.version>
+        <jdbc.hsqldb-driver.version>2.2.8</jdbc.hsqldb-driver.version>
         <jdbc.jtds-driver.version>1.2</jdbc.jtds-driver.version>
         <jdbc.mysql-driver.version>5.1.29</jdbc.mysql-driver.version>
         <jdbc.nuodb-driver.version>2.0.3</jdbc.nuodb-driver.version>
-        <jdbc.postgresql-driver.version>9.3-1100-jdbc41</jdbc.postgresql-driver.version>
+        <jdbc.postgresql-driver.version>9.3-1102-jdbc41</jdbc.postgresql-driver.version>
         <jenkins.job.name>maven-depmgt-pom-master-ci</jenkins.job.name>
         <jline.version>0.9.94</jline.version>
         <junit.version>4.11</junit.version>
@@ -159,6 +160,7 @@
         <org.eclipse.text.version>3.5.101</org.eclipse.text.version>
         <org.everrest.assured.version>0.21</org.everrest.assured.version>
         <org.everrest.version>1.2.0</org.everrest.version>
+        <org.flyway.version>3.1</org.flyway.version>
         <org.hamcrest.version>1.2.1</org.hamcrest.version>
         <org.hsqldb.version>2.0.0</org.hsqldb.version>
         <org.javassist.version>3.18.2-GA</org.javassist.version>
@@ -170,6 +172,7 @@
         <org.mongodb.mongo-java-server.version>1.1.1</org.mongodb.mongo-java-server.version>
         <org.mongodb.version>2.11.4</org.mongodb.version>
         <org.objectweb.asm>3.3.1</org.objectweb.asm>
+        <org.openjdk.jmh.version>1.4.2</org.openjdk.jmh.version>
         <org.osgi.version>5.0.0</org.osgi.version>
         <org.powermock.version>1.5.5</org.powermock.version>
         <org.quartz-scheduler.version>2.1.7</org.quartz-scheduler.version>
