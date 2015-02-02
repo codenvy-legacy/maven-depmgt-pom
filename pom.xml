@@ -174,6 +174,7 @@
         <org.openjdk.jmh.version>1.4.2</org.openjdk.jmh.version>
         <org.osgi.version>5.0.0</org.osgi.version>
         <org.powermock.version>1.5.5</org.powermock.version>
+        <org.projectlombok.lombok.version>1.16.0</org.projectlombok.lombok.version>
         <org.quartz-scheduler.version>2.1.7</org.quartz-scheduler.version>
         <org.reflections.version>0.9.9</org.reflections.version>
         <org.restlet.version>2.2.2</org.restlet.version>
