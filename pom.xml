@@ -20,7 +20,7 @@
         <relativePath />
     </parent>
     <artifactId>maven-depmgt-pom</artifactId>
-    <version>1.12.0</version>
+    <version>1.12.1-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>Codenvy Dependency Management POM</name>
     <description>Provides version of third parties artifacts to use in Codenvy platform projects</description>
@@ -34,24 +34,24 @@
         <ch.qos.logback.version>1.1.2</ch.qos.logback.version>
         <codenvy.api-docs-ui.version>1.2.0</codenvy.api-docs-ui.version>
         <codenvy.cli.version>2.6.0</codenvy.cli.version>
-        <codenvy.cloud-ide.version>3.6.0</codenvy.cloud-ide.version>
+        <codenvy.cloud-ide.version>3.6.1-SNAPSHOT</codenvy.cloud-ide.version>
         <codenvy.commons.version>0.42.0</codenvy.commons.version>
         <codenvy.dashboard.version>0.12.0</codenvy.dashboard.version>
         <codenvy.factory.version>0.21.0</codenvy.factory.version>
         <codenvy.hosted-infrastructure.version>0.13.0</codenvy.hosted-infrastructure.version>
         <codenvy.ide-codeassistant-index.version>20120627</codenvy.ide-codeassistant-index.version>
-        <codenvy.ide-sdk.version>3.6.0</codenvy.ide-sdk.version>
+        <codenvy.ide-sdk.version>3.6.1-SNAPSHOT</codenvy.ide-sdk.version>
         <codenvy.ide.version>3.6.0</codenvy.ide.version>
         <codenvy.odyssey.version>0.27.0</codenvy.odyssey.version>
         <codenvy.platform-api-client-java.version>1.6.0</codenvy.platform-api-client-java.version>
         <codenvy.platform-api-gwt-client.version>0.19.0</codenvy.platform-api-gwt-client.version>
-        <codenvy.platform-api.version>0.31.0</codenvy.platform-api.version>
+        <codenvy.platform-api.version>0.31.1-SNAPSHOT</codenvy.platform-api.version>
         <codenvy.plugin-contribution.version>1.0.0</codenvy.plugin-contribution.version>
         <codenvy.plugin-cpp.version>1.5.0</codenvy.plugin-cpp.version>
         <codenvy.plugin-editor-codemirror.version>1.6.0</codenvy.plugin-editor-codemirror.version>
         <codenvy.plugin-editor-orion.version>1.6.0</codenvy.plugin-editor-orion.version>
         <codenvy.plugin-go.version>1.2.0</codenvy.plugin-go.version>
-        <codenvy.plugin-java.version>1.6.0</codenvy.plugin-java.version>
+        <codenvy.plugin-java.version>1.6.1-SNAPSHOT</codenvy.plugin-java.version>
         <codenvy.plugin-php.version>1.5.0</codenvy.plugin-php.version>
         <codenvy.plugin-python.version>1.5.0</codenvy.plugin-python.version>
         <codenvy.plugin-ruby.version>1.5.0</codenvy.plugin-ruby.version>
