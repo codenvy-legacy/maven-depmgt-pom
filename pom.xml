@@ -37,7 +37,7 @@
         <codenvy.cloud-ide.version>3.6.1-SNAPSHOT</codenvy.cloud-ide.version>
         <codenvy.commons.version>0.42.0</codenvy.commons.version>
         <codenvy.dashboard.version>0.12.0</codenvy.dashboard.version>
-        <codenvy.factory.version>0.21.0</codenvy.factory.version>
+        <codenvy.factory.version>0.21.1-SNAPSHOT</codenvy.factory.version>
         <codenvy.hosted-infrastructure.version>0.13.0</codenvy.hosted-infrastructure.version>
         <codenvy.ide-codeassistant-index.version>20120627</codenvy.ide-codeassistant-index.version>
         <codenvy.ide-sdk.version>3.6.1-SNAPSHOT</codenvy.ide-sdk.version>
