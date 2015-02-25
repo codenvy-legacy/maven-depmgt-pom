@@ -76,20 +76,21 @@
         <com.cloudbees.client.version>1.5.4</com.cloudbees.client.version>
         <com.codahale.metrics.version>3.0.2</com.codahale.metrics.version>
         <com.dumbster.version>1.6</com.dumbster.version>
-        <com.google.api-client.version>1.9.0-beta</com.google.api-client.version>
-        <com.google.appengine.version>1.7.7</com.google.appengine.version>
+        <com.google.api-client.version>1.19.1</com.google.api-client.version>
+        <com.google.appengine.version>1.9.17a</com.google.appengine.version>
         <com.google.code.guice.version>3.0</com.google.code.guice.version>
         <com.google.gdata.version>1.47.1</com.google.gdata.version>
-        <com.google.guava.version>12.0.1</com.google.guava.version>
+        <com.google.guava.version>18.0</com.google.guava.version>
         <com.google.gwt.gin.version>2.1.2</com.google.gwt.gin.version>
-        <com.google.gwt.google-apis.gwt-gadgets.version>1.2.1</com.google.gwt.google-apis.gwt-gadgets.version>
         <com.google.gwt.gwtmockito>1.1.4</com.google.gwt.gwtmockito>
         <com.google.gwt.version>${version.gwt.plugin}</com.google.gwt.version>
-        <com.google.protobuf.version>2.4.1</com.google.protobuf.version>
+        <com.google.http-client.version>1.19.0</com.google.http-client.version>
+        <com.google.oauth-client.version>1.19.0</com.google.oauth-client.version>
+        <com.google.protobuf.version>2.6.1</com.google.protobuf.version>
         <com.googlecode.grep4j.version>1.8.7</com.googlecode.grep4j.version>
-        <com.googlecode.gson.version>2.1</com.googlecode.gson.version>
+        <com.googlecode.gson.version>2.3.1</com.googlecode.gson.version>
         <com.googlecode.gwt-test-utils.version>0.47</com.googlecode.gwt-test-utils.version>
-        <com.googlecode.json-simple.version>1.1</com.googlecode.json-simple.version>
+        <com.googlecode.json-simple.version>1.1.1</com.googlecode.json-simple.version>
         <com.jcraft.jsch.version>0.1.44-1</com.jcraft.jsch.version>
         <com.nimbusds.version>3.0</com.nimbusds.version>
         <com.openshift.client.version>2.3.0.Final</com.openshift.client.version>
