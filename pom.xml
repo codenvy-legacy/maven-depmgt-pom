@@ -138,7 +138,7 @@
         <org.apache.apacheds.version>1.5.7</org.apache.apacheds.version>
         <org.apache.hadoop.version>0.20.2</org.apache.hadoop.version>
         <org.apache.karaf.version>3.0.2</org.apache.karaf.version>
-        <org.apache.lucene.version>2.9.4</org.apache.lucene.version>
+        <org.apache.lucene.version>5.0.0</org.apache.lucene.version>
         <org.apache.pdfbox.version>1.7.1</org.apache.pdfbox.version>
         <org.apache.pig.version>0.12.0-codenvy-p1</org.apache.pig.version>
         <org.apache.poi.version>3.8</org.apache.poi.version>
