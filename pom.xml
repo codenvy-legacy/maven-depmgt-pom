@@ -65,6 +65,7 @@
         <codenvy.plugin.gulp.version>1.9.0-SNAPSHOT</codenvy.plugin.gulp.version>
         <codenvy.plugin.hosted.version>0.13.0-SNAPSHOT</codenvy.plugin.hosted.version>
         <codenvy.plugin.npm.version>1.9.0-SNAPSHOT</codenvy.plugin.npm.version>
+        <codenvy.plugin.runner.version>1.0.0-SNAPSHOT</codenvy.plugin.runner.version>
         <codenvy.plugin.tour.version>1.5.0-SNAPSHOT</codenvy.plugin.tour.version>
         <codenvy.plugin.yeoman.version>1.9.0-SNAPSHOT</codenvy.plugin.yeoman.version>
         <codenvy.security.version>1.4.0-SNAPSHOT</codenvy.security.version>
