@@ -77,6 +77,7 @@
         <com.cloudbees.client.version>1.5.4</com.cloudbees.client.version>
         <com.codahale.metrics.version>3.0.2</com.codahale.metrics.version>
         <com.dumbster.version>1.6</com.dumbster.version>
+        <com.fasterxml.jackson>2.4.1</com.fasterxml.jackson>
         <com.google.api-client.version>1.19.1</com.google.api-client.version>
         <com.google.appengine.version>1.9.17a</com.google.appengine.version>
         <com.google.code.guice.version>3.0</com.google.code.guice.version>
@@ -180,6 +181,7 @@
         <org.quartz-scheduler.version>2.1.7</org.quartz-scheduler.version>
         <org.reflections.version>0.9.9</org.reflections.version>
         <org.restlet.version>2.2.2</org.restlet.version>
+        <org.scala-lang.version>2.10.4</org.scala-lang.version>
         <org.scribe.version>1.3.5</org.scribe.version>
         <org.slf4j.version>1.7.6</org.slf4j.version>
         <org.testng.version>6.8</org.testng.version>
@@ -215,8 +217,33 @@
             </dependency>
             <dependency>
                 <groupId>com.codenvy.platform-api</groupId>
+                <artifactId>codenvy-api-core</artifactId>
+                <version>${codenvy.platform-api.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.codenvy.platform-api</groupId>
                 <artifactId>codenvy-dto</artifactId>
                 <version>${codenvy.platform-api.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.fasterxml.jackson.core</groupId>
+                <artifactId>jackson-annotations</artifactId>
+                <version>${com.fasterxml.jackson}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.fasterxml.jackson.core</groupId>
+                <artifactId>jackson-core</artifactId>
+                <version>${com.fasterxml.jackson}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.fasterxml.jackson.core</groupId>
+                <artifactId>jackson-databind</artifactId>
+                <version>${com.fasterxml.jackson}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.fasterxml.jackson.module</groupId>
+                <artifactId>jackson-module-jsonSchema</artifactId>
+                <version>${com.fasterxml.jackson}</version>
             </dependency>
             <dependency>
                 <groupId>com.google.code.findbugs</groupId>
@@ -249,6 +276,28 @@
                 <version>${com.google.code.guice.version}</version>
             </dependency>
             <dependency>
+                <groupId>com.wordnik</groupId>
+                <artifactId>swagger-core_2.10</artifactId>
+                <version>${com.wordnik.swagger.version}</version>
+                <exclusions>
+                    <exclusion>
+                        <artifactId>jsr311-api</artifactId>
+                        <groupId>javax.ws.rs</groupId>
+                    </exclusion>
+                </exclusions>
+            </dependency>
+            <dependency>
+                <groupId>com.wordnik</groupId>
+                <artifactId>swagger-jaxrs_2.10</artifactId>
+                <version>${com.wordnik.swagger.version}</version>
+                <exclusions>
+                    <exclusion>
+                        <artifactId>jsr311-api</artifactId>
+                        <groupId>javax.ws.rs</groupId>
+                    </exclusion>
+                </exclusions>
+            </dependency>
+            <dependency>
                 <groupId>javax.annotation</groupId>
                 <artifactId>jsr250-api</artifactId>
                 <version>${javax.annotation.version}</version>
@@ -277,6 +326,16 @@
                 <groupId>org.apache.commons</groupId>
                 <artifactId>commons-compress</artifactId>
                 <version>${commons-compress.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.apache.maven</groupId>
+                <artifactId>maven-plugin-api</artifactId>
+                <version>${maven.plugin-api.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.apache.maven.plugin-tools</groupId>
+                <artifactId>maven-plugin-annotations</artifactId>
+                <version>${maven.plugin-annotations.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.tomcat</groupId>
@@ -321,6 +380,16 @@
                         <groupId>com.google.code.findbugs</groupId>
                     </exclusion>
                 </exclusions>
+            </dependency>
+            <dependency>
+                <groupId>org.scala-lang</groupId>
+                <artifactId>scala-library</artifactId>
+                <version>${org.scala-lang.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.scala-lang</groupId>
+                <artifactId>scala-reflect</artifactId>
+                <version>${org.scala-lang.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.slf4j</groupId>
