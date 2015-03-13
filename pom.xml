@@ -77,9 +77,9 @@
         <com.cloudbees.client.version>1.5.4</com.cloudbees.client.version>
         <com.codahale.metrics.version>3.0.2</com.codahale.metrics.version>
         <com.dumbster.version>1.6</com.dumbster.version>
-        <com.fasterxml.jackson>2.4.1</com.fasterxml.jackson>
+        <com.fasterxml.jackson.version>2.4.1</com.fasterxml.jackson.version>
         <com.google.api-client.version>1.19.1</com.google.api-client.version>
-        <com.google.appengine.version>1.9.17a</com.google.appengine.version>
+        <com.google.appengine.version>1.9.18</com.google.appengine.version>
         <com.google.code.guice.version>3.0</com.google.code.guice.version>
         <com.google.gdata.version>1.47.1</com.google.gdata.version>
         <com.google.guava.version>18.0</com.google.guava.version>
@@ -113,6 +113,7 @@
         <javax.inject.version>1</javax.inject.version>
         <javax.jcr.version>1.0</javax.jcr.version>
         <javax.jcr350.version>1.3.9</javax.jcr350.version>
+        <javax.json.version>1.0.4</javax.json.version>
         <javax.mail.version>1.4.4</javax.mail.version>
         <javax.servlet.version>3.0.1</javax.servlet.version>
         <javax.validation.version>1.0.0.GA</javax.validation.version>
@@ -129,6 +130,7 @@
         <jline.version>0.9.94</jline.version>
         <junit.version>4.11</junit.version>
         <marketo.soap.sdk.version>2.3</marketo.soap.sdk.version>
+        <maven.bundle-plugin.version>2.5.0</maven.bundle-plugin.version>
         <maven.invoker.version>2.1.1</maven.invoker.version>
         <maven.plugin-annotations.version>3.2</maven.plugin-annotations.version>
         <maven.plugin-api.version>2.0</maven.plugin-api.version>
@@ -139,6 +141,7 @@
         <org.apache.ant.version>1.9.1</org.apache.ant.version>
         <org.apache.apacheds.version>1.5.7</org.apache.apacheds.version>
         <org.apache.hadoop.version>0.20.2</org.apache.hadoop.version>
+        <org.apache.karaf.feature-plugin.version>2.3.5</org.apache.karaf.feature-plugin.version>
         <org.apache.karaf.version>3.0.2</org.apache.karaf.version>
         <org.apache.lucene.version>5.0.0</org.apache.lucene.version>
         <org.apache.pdfbox.version>1.7.1</org.apache.pdfbox.version>
@@ -146,6 +149,7 @@
         <org.apache.poi.version>3.8</org.apache.poi.version>
         <org.apache.tika.version>1.1</org.apache.tika.version>
         <org.apache.tomcat.version>7.0.54</org.apache.tomcat.version>
+        <org.assertj.version>1.6.1</org.assertj.version>
         <org.codehaus.groovy.version>1.8.1</org.codehaus.groovy.version>
         <org.codehaus.jackson.version>1.9.4</org.codehaus.jackson.version>
         <org.concordion.ext.version>1.1.1</org.concordion.ext.version>
@@ -164,6 +168,9 @@
         <org.everrest.assured.version>0.21</org.everrest.assured.version>
         <org.everrest.version>1.3.0</org.everrest.version>
         <org.flyway.version>3.1</org.flyway.version>
+        <org.glassfish.hk2.version>2.2.0</org.glassfish.hk2.version>
+        <org.glassfish.jersey.version>2.8</org.glassfish.jersey.version>
+        <org.glassfish.jsonp-jaxrs.version>1.0</org.glassfish.jsonp-jaxrs.version>
         <org.hamcrest.version>1.2.1</org.hamcrest.version>
         <org.javassist.version>3.18.2-GA</org.javassist.version>
         <org.jboss.arquillian.version>1.1.2.Final</org.jboss.arquillian.version>
