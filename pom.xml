@@ -40,7 +40,7 @@
         <codenvy.factory.version>0.22.0</codenvy.factory.version>
         <codenvy.hosted-infrastructure.version>0.14.0</codenvy.hosted-infrastructure.version>
         <codenvy.ide-codeassistant-index.version>20120627</codenvy.ide-codeassistant-index.version>
-        <codenvy.ide-sdk.version>3.7.1</codenvy.ide-sdk.version>
+        <codenvy.ide-sdk.version>3.7.2</codenvy.ide-sdk.version>
         <codenvy.ide.version>3.7.0</codenvy.ide.version>
         <codenvy.odyssey.version>0.28.0</codenvy.odyssey.version>
         <codenvy.platform-api-client-java.version>1.7.0</codenvy.platform-api-client-java.version>
