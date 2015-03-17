@@ -93,6 +93,7 @@
         <com.googlecode.gson.version>2.3.1</com.googlecode.gson.version>
         <com.googlecode.gwt-test-utils.version>0.47</com.googlecode.gwt-test-utils.version>
         <com.googlecode.json-simple.version>1.1.1</com.googlecode.json-simple.version>
+        <com.jayway.restassured.version>2.4.0</com.jayway.restassured.version>
         <com.jcraft.jsch.version>0.1.44-1</com.jcraft.jsch.version>
         <com.nimbusds.version>3.0</com.nimbusds.version>
         <com.openshift.client.version>2.3.0.Final</com.openshift.client.version>
@@ -221,7 +222,6 @@
                 <artifactId>codenvy-commons-json</artifactId>
                 <version>${codenvy.commons.version}</version>
             </dependency>
-
             <dependency>
                 <groupId>com.codenvy.commons</groupId>
                 <artifactId>codenvy-commons-lang</artifactId>
@@ -229,7 +229,22 @@
             </dependency>
             <dependency>
                 <groupId>com.codenvy.platform-api</groupId>
+                <artifactId>codenvy-api-account</artifactId>
+                <version>${codenvy.platform-api.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.codenvy.platform-api</groupId>
                 <artifactId>codenvy-api-core</artifactId>
+                <version>${codenvy.platform-api.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.codenvy.platform-api</groupId>
+                <artifactId>codenvy-api-factory</artifactId>
+                <version>${codenvy.platform-api.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.codenvy.platform-api</groupId>
+                <artifactId>codenvy-api-project</artifactId>
                 <version>${codenvy.platform-api.version}</version>
             </dependency>
             <dependency>
@@ -240,6 +255,11 @@
             <dependency>
                 <groupId>com.codenvy.platform-api</groupId>
                 <artifactId>codenvy-api-vfs</artifactId>
+                <version>${codenvy.platform-api.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.codenvy.platform-api</groupId>
+                <artifactId>codenvy-api-workspace</artifactId>
                 <version>${codenvy.platform-api.version}</version>
             </dependency>
             <dependency>
@@ -296,6 +316,17 @@
                 <groupId>com.google.inject.extensions</groupId>
                 <artifactId>guice-servlet</artifactId>
                 <version>${com.google.code.guice.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.jayway.restassured</groupId>
+                <artifactId>rest-assured</artifactId>
+                <version>${com.jayway.restassured.version}</version>
+                <exclusions>
+                    <exclusion>
+                        <artifactId>commons-logging</artifactId>
+                        <groupId>commons-logging</groupId>
+                    </exclusion>
+                </exclusions>
             </dependency>
             <dependency>
                 <groupId>com.wordnik</groupId>
@@ -432,6 +463,11 @@
             <dependency>
                 <groupId>org.hamcrest</groupId>
                 <artifactId>hamcrest-core</artifactId>
+                <version>${org.hamcrest.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.hamcrest</groupId>
+                <artifactId>hamcrest-library</artifactId>
                 <version>${org.hamcrest.version}</version>
             </dependency>
             <!-- Mock testing -->
