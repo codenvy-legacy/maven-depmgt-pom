@@ -56,6 +56,7 @@
         <codenvy.plugin-python.version>1.7.0</codenvy.plugin-python.version>
         <codenvy.plugin-ruby.version>1.7.0</codenvy.plugin-ruby.version>
         <codenvy.plugin-sdk.version>1.8.0</codenvy.plugin-sdk.version>
+        <codenvy.plugin-svn.version>1.0.0-SNAPSHOT</codenvy.plugin-svn.version>
         <codenvy.plugin.angularjs.version>1.11.0</codenvy.plugin.angularjs.version>
         <codenvy.plugin.bower.version>1.9.0</codenvy.plugin.bower.version>
         <codenvy.plugin.datasource.version>1.11.0</codenvy.plugin.datasource.version>
