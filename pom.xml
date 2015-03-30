@@ -20,7 +20,7 @@
         <relativePath />
     </parent>
     <artifactId>maven-depmgt-pom</artifactId>
-    <version>1.19.0</version>
+    <version>1.19.1-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>Codenvy Dependency Management POM</name>
     <description>Provides version of third parties artifacts to use in Codenvy platform projects</description>
@@ -34,7 +34,7 @@
         <ch.qos.logback.version>1.1.2</ch.qos.logback.version>
         <codenvy.api-docs-ui.version>1.4.0</codenvy.api-docs-ui.version>
         <codenvy.cli.version>2.8.0</codenvy.cli.version>
-        <codenvy.cloud-ide.version>3.8.0</codenvy.cloud-ide.version>
+        <codenvy.cloud-ide.version>3.8.1-SNAPSHOT</codenvy.cloud-ide.version>
         <codenvy.commons.version>0.44.0</codenvy.commons.version>
         <codenvy.dashboard.version>0.14.0</codenvy.dashboard.version>
         <codenvy.factory.version>0.23.0</codenvy.factory.version>
@@ -45,7 +45,7 @@
         <codenvy.odyssey.version>0.29.0</codenvy.odyssey.version>
         <codenvy.platform-api-client-java.version>1.8.0</codenvy.platform-api-client-java.version>
         <codenvy.platform-api-gwt-client.version>0.21.0</codenvy.platform-api-gwt-client.version>
-        <codenvy.platform-api.version>0.33.0</codenvy.platform-api.version>
+        <codenvy.platform-api.version>0.33.1-SNAPSHOT</codenvy.platform-api.version>
         <codenvy.plugin-contribution.version>1.2.0</codenvy.plugin-contribution.version>
         <codenvy.plugin-cpp.version>1.7.0</codenvy.plugin-cpp.version>
         <codenvy.plugin-editor-codemirror.version>1.8.0</codenvy.plugin-editor-codemirror.version>
@@ -65,7 +65,7 @@
         <codenvy.plugin.gulp.version>1.9.0</codenvy.plugin.gulp.version>
         <codenvy.plugin.hosted.version>0.13.0</codenvy.plugin.hosted.version>
         <codenvy.plugin.npm.version>1.9.0</codenvy.plugin.npm.version>
-        <codenvy.plugin.runner.version>1.0.0</codenvy.plugin.runner.version>
+        <codenvy.plugin.runner.version>1.0.1-SNAPSHOT</codenvy.plugin.runner.version>
         <codenvy.plugin.tour.version>1.5.0</codenvy.plugin.tour.version>
         <codenvy.plugin.yeoman.version>1.9.0</codenvy.plugin.yeoman.version>
         <codenvy.security.version>1.4.0</codenvy.security.version>
