@@ -41,7 +41,7 @@
         <codenvy.hosted-infrastructure.version>0.15.CCCIS.1-SNAPSHOT</codenvy.hosted-infrastructure.version>
         <codenvy.ide-codeassistant-index.version>20120627</codenvy.ide-codeassistant-index.version>
         <codenvy.ide-sdk.version>3.8.0</codenvy.ide-sdk.version>
-        <codenvy.ide.version>3.8.1</codenvy.ide.version>
+        <codenvy.ide.version>3.8.2</codenvy.ide.version>
         <codenvy.odyssey.version>0.29.0</codenvy.odyssey.version>
         <codenvy.platform-api-client-java.version>1.8.0</codenvy.platform-api-client-java.version>
         <codenvy.platform-api-gwt-client.version>0.21.0</codenvy.platform-api-gwt-client.version>
