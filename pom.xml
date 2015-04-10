@@ -38,7 +38,7 @@
         <codenvy.commons.version>0.44.0</codenvy.commons.version>
         <codenvy.dashboard.version>0.14.1</codenvy.dashboard.version>
         <codenvy.factory.version>0.23.0</codenvy.factory.version>
-        <codenvy.hosted-infrastructure.version>0.15.1-SNAPSHOT</codenvy.hosted-infrastructure.version>
+        <codenvy.hosted-infrastructure.version>0.15.CCCIS.1-SNAPSHOT</codenvy.hosted-infrastructure.version>
         <codenvy.ide-codeassistant-index.version>20120627</codenvy.ide-codeassistant-index.version>
         <codenvy.ide-sdk.version>3.8.0</codenvy.ide-sdk.version>
         <codenvy.ide.version>3.8.1</codenvy.ide.version>
@@ -51,7 +51,7 @@
         <codenvy.plugin-editor-codemirror.version>1.8.0</codenvy.plugin-editor-codemirror.version>
         <codenvy.plugin-editor-orion.version>1.8.0</codenvy.plugin-editor-orion.version>
         <codenvy.plugin-go.version>1.4.0</codenvy.plugin-go.version>
-        <codenvy.plugin-java.version>1.8.2-SNAPSHOT</codenvy.plugin-java.version>
+        <codenvy.plugin-java.version>1.8.CCCIS.2-SNAPSHOT</codenvy.plugin-java.version>
         <codenvy.plugin-php.version>1.7.0</codenvy.plugin-php.version>
         <codenvy.plugin-python.version>1.7.0</codenvy.plugin-python.version>
         <codenvy.plugin-ruby.version>1.7.0</codenvy.plugin-ruby.version>
