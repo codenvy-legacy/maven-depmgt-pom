@@ -34,14 +34,14 @@
         <ch.qos.logback.version>1.1.2</ch.qos.logback.version>
         <codenvy.api-docs-ui.version>1.4.0</codenvy.api-docs-ui.version>
         <codenvy.cli.version>2.8.0</codenvy.cli.version>
-        <codenvy.cloud-ide.version>3.8.CCCIS.1</codenvy.cloud-ide.version>
+        <codenvy.cloud-ide.version>3.8.CCCIS.2</codenvy.cloud-ide.version>
         <codenvy.commons.version>0.44.0</codenvy.commons.version>
         <codenvy.dashboard.version>0.14.1</codenvy.dashboard.version>
         <codenvy.factory.version>0.23.0</codenvy.factory.version>
         <codenvy.hosted-infrastructure.version>0.15.CCCIS.1</codenvy.hosted-infrastructure.version>
         <codenvy.ide-codeassistant-index.version>20120627</codenvy.ide-codeassistant-index.version>
         <codenvy.ide-sdk.version>3.8.0</codenvy.ide-sdk.version>
-        <codenvy.ide.version>3.8.2</codenvy.ide.version>
+        <codenvy.ide.version>3.8.3</codenvy.ide.version>
         <codenvy.odyssey.version>0.29.0</codenvy.odyssey.version>
         <codenvy.platform-api-client-java.version>1.8.0</codenvy.platform-api-client-java.version>
         <codenvy.platform-api-gwt-client.version>0.21.0</codenvy.platform-api-gwt-client.version>
